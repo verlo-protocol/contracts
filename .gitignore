@@ -22,3 +22,4 @@ out/
 
 # Foundry lock
 foundry.lock
+.github/
